@@ -1,0 +1,6 @@
+exams_1.csv
+exams_2.csv
+homework_1.csv
+homework_2.csv
+quizzes_1.csv
+quizzes_2.csv
